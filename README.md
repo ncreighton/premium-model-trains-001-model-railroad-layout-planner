@@ -1,0 +1,2 @@
+# premium-model-trains-001-model-railroad-layout-planner
+Tired of losing track of which rolling stock you own or sketching layouts on scraps of paper? Stop the chaos and start building your dream railroad with a single, organized system.  This Notion template replaces scattered notes, spreadsheets, and manual logs with a centralized hub for both layout planning and rolling stock management. You'll save h
